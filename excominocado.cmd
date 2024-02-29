@@ -2,7 +2,7 @@ cd /
 :top
 cls
 mod con: lines=5 cols=30
-title "excominocado"
+title "Excominocado"
 @cecho off
 @set "Xapk=141561235163"
 @set "Xapp=543216578123"
