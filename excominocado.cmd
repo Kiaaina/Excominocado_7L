@@ -1,7 +1,7 @@
 cd /
 :top
 cls
-mod con: lines=6 cols=30
+mod con: lines=5 cols=30
 title "excominocado"
 @cecho off
 @set "Xapk=141561235163"
