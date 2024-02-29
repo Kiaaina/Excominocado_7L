@@ -28,6 +28,6 @@ copy "%Xiso% ./X.iso"
 goto 7L
 
 :7L
-cecho {05}By_Kia7L{02}
+cecho {05}Made_By_Kia7L{02}
 timeout /t 5
 goto top
