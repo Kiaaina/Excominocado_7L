@@ -7,7 +7,7 @@ title "Excominocado"
 @set "Xapk=141561235163"
 @set "Xapp=543216578123"
 @set "Xiso=751683271890"
-cecho {09}1=apk{/h}2=app{/h}3=iso{04}
+cecho {09}1=apk{\n}2=app{\n}3=iso{04}
 
 set /a m=Choose;
 if (%m%=1) & goto one
